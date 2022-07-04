@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'PPNeueMachina';
+  font-weight: 300;
+  src: url(../fonts/PPNeueMachina-PlainLight.woff2) format("woff2")
+}
+
+@font-face {
+  font-family: 'PPNeueMachina';
+  font-weight: 400;
+  src: url(../fonts/PPNeueMachina-PlainRegular.woff2) format("woff2")
+}
+
+@font-face {
+  font-family: 'PPNeueMachina';
+  font-weight: 800;
+  src: url(../fonts/PPNeueMachina-PlainUltrabold.woff2) format("woff2")
+}

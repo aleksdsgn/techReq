@@ -1,0 +1,10 @@
+.hints__container {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  max-width: 1280px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 290px);
+  justify-content: center;
+  gap: 15px;
+}
